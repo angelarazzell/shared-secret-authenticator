@@ -9,6 +9,6 @@ Netbeans project for an authenticator prototype to check both users' entries for
 
 This project uses code downloaded from http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html.
 
-![Screen_Print](image/Screen_Print.png)
+![Screen_Print](images/screen_print.png)
 
 
