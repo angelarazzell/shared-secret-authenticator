@@ -9,6 +9,5 @@ Netbeans project for an authenticator prototype to check both users' entries for
 
 This project uses code downloaded from http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html.
 
-![ScreenPrint](https://raw.github.com/angelarazzell/shared-secret-authenticator/blob/master/images/screen_shot.png)
-
+![](https://github.com/angelarazzell/shared-secret-authenticator/blob/master/images/screen_shot.png)
 
